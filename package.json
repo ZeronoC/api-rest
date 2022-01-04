@@ -28,7 +28,7 @@
     "generate-password": "^1.4.2",
     "genius-lyrics": "^4.0.0",
     "github-scraper": "^7.0.1",
-    "got": "^11.8.2",
+    "got": "^12.0.0",
     "hash.js": "^1.1.7",
     "hbs": "^4.1.0",
     "http-errors": "~1.8.0",
